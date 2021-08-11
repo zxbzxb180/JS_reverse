@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+
+# app脱壳使用了BlackDex32、NP管理器、VMOS Pro、反射大师、dex2jar、jd-GUI等工具
+
+
 import base64
 
 import requests
